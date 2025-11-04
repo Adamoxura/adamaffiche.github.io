@@ -53,7 +53,7 @@
             <p><strong>Pour plus d'infos contactez-moi :</strong></p>
             <p>Email : <a href="mailto:votre.email@example.com">adamoxura744@gmail.com</a></p>
             <p>Téléphone : +212 6 90 63 26 86</p>
-             <p>Instagram : <a href="https://instagram.com/votrecompte">@4d_eem</a></p>
+             <p>Instagram : <a href="https://instagram.com/4d_eem">@4d_eem</a></p>
         </div>
     </div>
 </body>
